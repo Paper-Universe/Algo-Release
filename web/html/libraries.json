@@ -15,7 +15,8 @@
         },
         "wf": {
             "radiant": {"fee": 15, "developers": ["WhiteFire"], "useHBM" : 0, "useKey": 0},
-            "alephium_wf": {"fee": 10, "developers": ["WhiteFire"], "useHBM" : 0, "useKey": 0}
+            "alephium_wf": {"fee": 10, "developers": ["WhiteFire"], "useHBM" : 0, "useKey": 0},
+	    "decred": {"fee": 10, "developers": ["Paper"], "useHBM" : 0, "useKey": 0}
         }
 	,
         "aft": {
