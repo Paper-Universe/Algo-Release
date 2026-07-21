@@ -20,7 +20,7 @@
 	,
         "aft": {
             "tari_aft": {"fee": 10, "developers": ["The AllFather"], "useHBM" : 0, "useKey": 0, "run_command":"sudo /opt/tari_aft/tari_aft   --p %s  --u %s --worker %s --e300 --f %s" , "run_args":[3,4,5,6]},
-	    "decred": {"fee": 10, "developers": ["Paper"], "useHBM" : 0, "useKey": 0}
+	    "decred": {"fee": 10, "developers": ["Paper"], "useHBM" : 0, "useKey": 0, "run_command":"sudo /opt/decred/decred  -o %s  -u %s.%s  -p x" , "run_args":[3,4,5,6]}
         }
     }
 }
